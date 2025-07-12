@@ -1,0 +1,14 @@
+# Entorno virtual
+RL/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Modelos y outputs
+**/outputs/
+*.pth
+*.png
+
+# VSCode config
+.vscode/
