@@ -1,13 +1,13 @@
-# 🧠 Aprendiendo-RL
+#  Aprendiendo-RL
 
 Este repositorio documenta mi proceso de aprendizaje en **Reinforcement Learning**, abordando dos enfoques complementarios:
 
-- ✅ **Objetivo 2:** Uso de librerías de alto nivel como `stable-baselines3` para entrenar agentes rápidamente.
-- ✅ **Objetivo 3:** Implementación manual del algoritmo DQN en PyTorch, desde cero, con control total.
+-  **Objetivo 2:** Uso de librerías de alto nivel como `stable-baselines3` para entrenar agentes rápidamente.
+-  **Objetivo 3:** Implementación manual del algoritmo DQN en PyTorch, desde cero, con control total.
 
 ---
 
-## 📂 Estructura general del proyecto
+##  Estructura general del proyecto
 
 ```
 Aprendiendo-RL/
@@ -33,7 +33,7 @@ Aprendiendo-RL/
 
 ---
 
-## ✅ Objetivo 2 – LunarLander con `stable-baselines3`
+##  Objetivo 2 – LunarLander con `stable-baselines3`
 
 En esta carpeta entreno agentes en `LunarLander-v2` usando `stable-baselines3`.  
 Incluye:
@@ -52,7 +52,7 @@ python train_lunarlander.py
 
 ---
 
-## ✅ Objetivo 3 – DQN desde cero en PyTorch
+##  Objetivo 3 – DQN desde cero en PyTorch
 
 Aquí desarrollo una implementación completa de **Deep Q-Learning** sin librerías externas de RL, con énfasis en:
 
@@ -75,7 +75,7 @@ python eval_lunarlander_dqn.py
 
 ---
 
-## 📦 Requisitos
+##  Requisitos
 
 Instala todas las dependencias con:
 
@@ -93,7 +93,7 @@ matplotlib
 
 ---
 
-## 🔭 Próximos pasos
+##  Próximos pasos
 
 - [ ] Añadir Double DQN
 - [ ] Implementar Prioritized Experience Replay
@@ -103,9 +103,10 @@ matplotlib
 
 ---
 
-## 🙋‍♂️ Autor
+##  Autor
 
 **Izanvz**  
 [github.com/Izanvz](https://github.com/Izanvz)
 
 izanvillarejo2002@gmail.com
+
